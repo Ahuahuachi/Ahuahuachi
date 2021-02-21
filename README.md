@@ -9,6 +9,15 @@
 - 👨‍🏫 Mentor @ [Kodemia][kodemia-website]
   - 💬 Ask me about how to become a developer!
 
+---
+
+### 👨‍💻 Coding
+
+[html5](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
+
+<!-- <img alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> -->
+
+<!-- https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png -->
 <!-- Links -->
 
 [tisp-website]: https://tisinproblemas.com
