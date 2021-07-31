@@ -10,7 +10,7 @@
   - 💬 Ask me about how to become a developer!
 
 ### 📊 Stats
-[![Ahuahuachi's Stats](https://github-readme-stats.vercel.app/api/pin/?username=ahuahuachi&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Ahuahuachi's Stats](https://github-readme-stats.vercel.app/api/pin/?username=ahuahuachi)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Links -->
 
