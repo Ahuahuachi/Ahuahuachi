@@ -9,6 +9,9 @@
 - 👨‍🏫 Mentor @ [Kodemia][kodemia-website]
   - 💬 Ask me about how to become a developer!
 
+### 📊 Stats
+[![Ahuahuachi's Stats](https://github-readme-stats.vercel.app/api/pin/?username=ahuahuachi&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- Links -->
 
 [tisp-website]: https://tisinproblemas.com
