@@ -38,6 +38,8 @@
 <img alt="mysql" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />&nbsp;
 <img alt="postgresql" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />&nbsp;
 
+[![Ahuahuachi's Most Used Languages](https://github-readme-stats-one-gamma-25.vercel.app/api/top-langs/?username=Ahuahuachi&layout=donut-vertical&theme=jolly&langs_count=20&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- Links -->
 
 [tisp-website]: https://tisinproblemas.com
