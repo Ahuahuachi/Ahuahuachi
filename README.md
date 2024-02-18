@@ -10,7 +10,7 @@
 - 👨‍🏫 Mentor @ [Kodemia][kodemia-website]
   - 💬 Ask me about how to become a developer!
 
-[![Ahuahuachi's Github Stats](https://github-readme-stats-one-gamma-25.vercel.app/api?username=ahuahuachi&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Ahuahuachi's Github Stats](https://github-readme-stats-one-gamma-25.vercel.app/api?username=ahuahuachi&count_private=true&show_icons=true&theme=jolly&rank_icon=percentile&show=reviews,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
