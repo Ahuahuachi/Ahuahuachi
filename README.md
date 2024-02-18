@@ -1,6 +1,7 @@
 ### Hi 👋🏽 I'm Alfredo, welcome!
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Ahuahuachi?color=1DA1F2&label=%40Ahuahuachi&logo=twitter&style=for-the-badge)](https://twitter.com/Ahuahuachi)
+![GitHub followers](https://img.shields.io/github/followers/ahuahuachi?label=Followers&style=for-the-badge&logo=github)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Ahuahuachi?label=Ahuahuachi&style=for-the-badge&logo=x)
 
 ### 💻 Full Stack Web developer
 
