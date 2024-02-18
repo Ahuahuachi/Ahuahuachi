@@ -5,7 +5,7 @@
 
 ### 💻 Full Stack Web developer
 
-- 💼 Currently working @ [Synnex][synnex-website]
+- 💼 Currently working @ [TD Synnex][synnex-website]
 - 👨‍💻 Main developer @ [TI Sin Problemas][tisp-website]
 - 👨‍🏫 Mentor @ [Kodemia][kodemia-website]
   - 💬 Ask me about how to become a developer!
@@ -40,5 +40,5 @@
 <!-- Links -->
 
 [tisp-website]: https://tisinproblemas.com
-[synnex-website]: https://la.synnex.com/es_MX/
+[synnex-website]: https://https://tdsynnex.com/
 [kodemia-website]: https://kodemia.mx
